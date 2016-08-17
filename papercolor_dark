@@ -1,0 +1,34 @@
+
+! Put this in you .Xdefaults or in the .Xressources at you home dir
+
+
+! PaperColor Theme dark
+URxvt*cursorColor: #25c3dc
+URxvt*pointerColor: #25c3dc
+URxvt.foreground: #f2f2f2
+URxvt.background: #1C1C1C
+! black
+URxvt.color0: #2c2c2c
+URxvt.color8: #969694
+! red
+URxvt.color1: #c62828
+URxvt.color9: #f15250
+! green
+URxvt.color2: #558b2e
+URxvt.color10: #86bd47
+! yellow / orange
+URxvt.color3: #f9a825
+URxvt.color11: #f8e63a
+! blue
+URxvt.color4: #1565c1
+URxvt.color12: #77b2f6
+! magenta
+URxvt.color5: #6a1e9a
+URxvt.color13: #b963c8
+! cyan
+URxvt.color6: #00838f
+URxvt.color14: #25c3dc
+! white
+URxvt.color7: #ffffff
+URxvt.color15: #ffffff
+
